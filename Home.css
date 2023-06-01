@@ -263,6 +263,7 @@
 .u-section-3 .u-image-1 {
   min-height: 525px;
   background-image: url("images/Mapforwebsite.png");
+  background-position: 50% 50%;
 }
 
 @media (max-width: 1199px) {
